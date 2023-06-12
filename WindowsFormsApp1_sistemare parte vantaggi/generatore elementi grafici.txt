@@ -1,0 +1,61 @@
+using System;
+using System.Drawing;
+
+public class MainWindow
+{
+    static string[] Abilità = { "Armi da fuoco", "Atletica", "Criminalità", "Furtività", "Guidare", "Manualità", "Mischia", "Rissa", "Sopravvivenza", "Affinità Animale", "Autorità", "Bassifondi", "Convincere", "Espressività", "Galateo", "Intimidire", "Intuito", "Sotterfugio", "Accademiche", "Allerta", "Finanza", "Investigare", "Medicina", "Occulto", "Politica", "Scienze", "Tecnologia" };
+    static int posizioneVerticale = 302;
+    static int posizioneOrrizzontale = 13;
+    static int posizioneOrrizontaleradioButton = 109;
+    static int posizioneVerticaleradioButton = 302;
+    static int n = 1;
+    static int c = 1;
+	static int l = 0; 
+
+    public static void Main(string[] args)
+    {
+        foreach (string abilita in Abilità)
+        {   
+            Console.WriteLine("this." + abilita.Replace(" ", "") + " = new System.Windows.Forms.TextBox();");
+            Console.WriteLine("this." + abilita.Replace(" ", "") + ".Text = \"" + abilita + "\";");
+            Console.WriteLine("this." + abilita.Replace(" ", "") + ".Location = new System.Drawing.Point(" + posizioneOrrizzontale + "," + posizioneVerticale + ");");
+            Console.WriteLine("this." + abilita.Replace(" ", "") + ".Size = new System.Drawing.Size(87, 22);");
+            Console.WriteLine();
+
+            posizioneVerticale += 28;
+
+            while (c < 6)
+            {
+                Console.WriteLine("this." + abilita.Replace(" ", "") + "_RadioButton_" + c + " = new System.Windows.Forms.RadioButton();");
+                Console.WriteLine("this." + abilita.Replace(" ", "") + "_RadioButton_" + c + ".AutoSize = true;");
+                Console.WriteLine("this." + abilita.Replace(" ", "") + "_RadioButton_" + c + ".Location = new System.Drawing.Point(" + posizioneOrrizontaleradioButton + "," + posizioneVerticaleradioButton + ");");
+                Console.WriteLine("this." + abilita.Replace(" ", "") + "_RadioButton_" + c + ".Name = \"" + abilita.Replace(" ", "") + "_RadioButton_" + c + "\";");
+                Console.WriteLine("this." + abilita.Replace(" ", "") + "_RadioButton_" + c + ".Size = new System.Drawing.Size(17, 16);");
+                Console.WriteLine("this." + abilita.Replace(" ", "") + "_RadioButton_" + c + ".TabIndex = 99;");
+                Console.WriteLine("this." + abilita.Replace(" ", "") + "_RadioButton_" + c + ".TabStop = true;");
+                Console.WriteLine("this." + abilita.Replace(" ", "") + "_RadioButton_" + c + ".UseVisualStyleBackColor = true;");
+                Console.WriteLine();
+
+                posizioneOrrizontaleradioButton += 17;
+                c++;
+            }
+
+            if (c == 6)
+            {
+                posizioneOrrizontaleradioButton = 109 + (l*192);
+                posizioneVerticaleradioButton += 28;
+                c = 1;
+            }
+		n++;
+            posizioneVerticale += 8;
+		if (n==9)
+		{
+			posizioneOrrizzontale += 192;
+			posizioneVerticale = 302;
+			posizioneVerticaleradioButton = 302;
+			l++;
+			
+		}
+        }
+    }
+}

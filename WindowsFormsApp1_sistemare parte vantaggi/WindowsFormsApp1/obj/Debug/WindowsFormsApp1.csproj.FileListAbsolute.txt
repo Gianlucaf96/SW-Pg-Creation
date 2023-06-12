@@ -1,0 +1,40 @@
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreationOptionForm.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Options.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateCharacterPag1.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateCharacterPag2.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateCharacterPag2.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateCharacterPag1.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreationOptionForm.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Options.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\fiscalettig.IMA\source\repos\Try-send homes - Copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateCharacterPag2.resources
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateCharacterPag1.resources
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreationOptionForm.resources
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Options.resources
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1_sistemare parte vantaggi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
