@@ -1,4 +1,3 @@
-Buonasera, mi scuso per il ritardo nel condividere il file di cui accennavo oggi durante il colloquio, che trovate in allegato.
 
 Mi preme fare alcune precisazioni che ritengo necessarie.
 
